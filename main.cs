@@ -73,7 +73,7 @@ namespace sharpsnake
         static void Main()
         {
 
-            Console.SetWindowSize(Height+1, Width+1);
+            //Console.SetWindowSize(Height+1, Width+1);
             int sx = Height / 2;
             int sy = Width / 2;
 
