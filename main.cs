@@ -1,7 +1,7 @@
 using System;
 using System.Threading;
 
-namespace SnakeTry2
+namespace sharpsnake
 {
 
     class PrintBoard
