@@ -1,0 +1,15 @@
+C:\Users\wez\source\repos\sharpsnake\sharpsnake\bin\Debug\net6.0\sharpsnake.exe
+C:\Users\wez\source\repos\sharpsnake\sharpsnake\bin\Debug\net6.0\sharpsnake.deps.json
+C:\Users\wez\source\repos\sharpsnake\sharpsnake\bin\Debug\net6.0\sharpsnake.runtimeconfig.json
+C:\Users\wez\source\repos\sharpsnake\sharpsnake\bin\Debug\net6.0\sharpsnake.dll
+C:\Users\wez\source\repos\sharpsnake\sharpsnake\bin\Debug\net6.0\sharpsnake.pdb
+C:\Users\wez\source\repos\sharpsnake\sharpsnake\obj\Debug\net6.0\sharpsnake.csproj.AssemblyReference.cache
+C:\Users\wez\source\repos\sharpsnake\sharpsnake\obj\Debug\net6.0\sharpsnake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wez\source\repos\sharpsnake\sharpsnake\obj\Debug\net6.0\sharpsnake.AssemblyInfoInputs.cache
+C:\Users\wez\source\repos\sharpsnake\sharpsnake\obj\Debug\net6.0\sharpsnake.AssemblyInfo.cs
+C:\Users\wez\source\repos\sharpsnake\sharpsnake\obj\Debug\net6.0\sharpsnake.csproj.CoreCompileInputs.cache
+C:\Users\wez\source\repos\sharpsnake\sharpsnake\obj\Debug\net6.0\sharpsnake.dll
+C:\Users\wez\source\repos\sharpsnake\sharpsnake\obj\Debug\net6.0\refint\sharpsnake.dll
+C:\Users\wez\source\repos\sharpsnake\sharpsnake\obj\Debug\net6.0\sharpsnake.pdb
+C:\Users\wez\source\repos\sharpsnake\sharpsnake\obj\Debug\net6.0\sharpsnake.genruntimeconfig.cache
+C:\Users\wez\source\repos\sharpsnake\sharpsnake\obj\Debug\net6.0\ref\sharpsnake.dll
